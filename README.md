@@ -6,6 +6,8 @@ Using two different Kaggle datasets that contain human face images, and Anime ch
 The main aim is to understand all the concepts and functions required to train a GAN from basics.
 
 The Jupyter notebook provided can be used to study the code in parts and understand what is happening at each stage, after each function and statement.
+All explanations are written as comments in the code itself.
+
 Currently the project is implemented with only 50 epochs and hence starting from this image as output;
 
 ![](OutPut/train-0.png)
