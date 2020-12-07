@@ -17,3 +17,5 @@ This is what we get when we reach to the end of last epoch;
 ![](OutPut/train-49.png)
 
 It does not seem to be a promising result at first, but with more epochs and and optimizations the ouputs will be improved and soon the project will be aimed to generate new Anime character images. 
+
+#### For dataset and output images visit [here](https://drive.google.com/drive/u/0/folders/1Wj3b-JTs7wV1yWA9JtdFAlYNy_D6RYZ7)
